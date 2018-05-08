@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generato da Microsoft Visio, esportazione SVG overview4.0.svg Page-2 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="11.6929in" height="16.0354in"
+		viewBox="0 0 841.89 1154.55" xml:space="preserve" color-interpolation-filters="sRGB" class="st12">
+	<v:documentProperties v:langID="1040" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Rectangle)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#b71c1c;stroke:#b71c1c;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st2 {fill:#ffffff;font-family:Segoe UI;font-size:1.5em}
+		.st3 {fill:#ffffff;stroke:#7f7f7f;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st4 {fill:#262626;font-family:Symbol;font-size:0.833336em}
+		.st5 {font-size:1em}
+		.st6 {font-family:Segoe UI;font-size:1em}
+		.st7 {fill:#1a237e;stroke:#1a237e;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st8 {fill:#004d40;stroke:#004d40;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st9 {fill:#f57f17;stroke:#f57f17;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st10 {fill:#1ba1e2;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st11 {fill:#ffffff;font-family:Segoe UI;font-size:2.50001em}
+		.st12 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="4" v:index="2" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(1):26"/>
+		</v:userDefs>
+		<title>Pagina 2</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="group10-1" transform="translate(68.8819,-736.441)" v:mID="10" v:groupContext="group">
+			<title>Foglio.10</title>
+			<g id="shape1-2" v:mID="1" v:groupContext="shape" transform="translate(0,-233.858)">
+				<title>Casella</title>
+				<desc>Persistence on file system</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="173.622" cy="1122.66" width="347.25" height="63.7795"/>
+				<rect x="0" y="1090.77" width="347.244" height="63.7795" class="st1"/>
+				<text x="72.07" y="1128.06" class="st2" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Persistence on file system</text>			</g>
+			<g id="shape6-5" v:mID="6" v:groupContext="shape" transform="translate(0,-72.2835)">
+				<title>Casella.6</title>
+				<desc>no reflection is used, code is generated at compile time supp...</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="173.622" cy="1071.64" width="347.25" height="165.827"/>
+				<rect x="0" y="988.724" width="347.244" height="165.827" class="st3"/>
+				<text x="4" y="1001.84" class="st4" v:langID="1033"><v:paragraph v:indentFirst="-18" v:indentLeft="18" v:bullet="1"/><v:tabList/><tspan
+							class="st5" v:isBullet="true">·</tspan> <tspan class="st6">no reflection is used</tspan><tspan
+							class="st6">, </tspan><tspan class="st6">code is generated at compile time<v:newlineChar/></tspan><tspan
+							x="4" dy="1.216em" class="st5" v:isBullet="true">·</tspan> <tspan class="st6">supported data format</tspan><tspan
+							class="st6">: </tspan><tspan class="st6">JSON</tspan><tspan class="st6">, </tspan><tspan class="st6">XML</tspan><tspan
+							class="st6">, </tspan><tspan class="st6">YAML</tspan><tspan class="st6">, </tspan><tspan class="st6">CBOR</tspan><tspan
+							class="st6">, </tspan><tspan class="st6">SMILE and JAVA </tspan><tspan x="22" dy="1.204em" class="st6">PROPERTIES<v:newlineChar/></tspan><tspan
+							x="4" dy="1.212em" class="st5" v:isBullet="true">·</tspan> <tspan class="st6">supports basic java type</tspan><tspan
+							class="st6">: </tspan><tspan class="st6">String</tspan><tspan class="st6">, </tspan><tspan class="st6">all primitive and wrapped types<v:newlineChar/></tspan><tspan
+							x="4" dy="1.216em" class="st5" v:isBullet="true">·</tspan> <tspan class="st6">supports arrays of bytes and all supported types<v:newlineChar/></tspan><tspan
+							x="4" dy="1.216em" class="st5" v:isBullet="true">·</tspan> <tspan class="st6">supports for List</tspan><tspan
+							class="st6">, </tspan><tspan class="st6">Set and Map collections<v:newlineChar/></tspan><tspan x="4"
+							dy="1.216em" class="st5" v:isBullet="true">·</tspan> <tspan class="st6">supports for common types like Date</tspan><tspan
+							class="st6">, </tspan><tspan class="st6">Calendar</tspan><tspan class="st6">, </tspan><tspan
+							class="st6">Locale</tspan><tspan class="st6">, </tspan><tspan class="st6">Time</tspan><tspan
+							class="st6">, </tspan><tspan class="st6">TimeZone </tspan><tspan x="22" dy="1.204em" class="st6">and URL<v:newlineChar/></tspan><tspan
+							x="4" dy="1.212em" class="st5" v:isBullet="true">·</tspan> <tspan class="st6">allows to extends persistence to other java type and modify default </tspan><tspan
+							x="22" dy="1.204em" class="st6">behaviour<v:newlineChar/></tspan><tspan x="4" dy="1.212em" class="st5"
+							v:langID="2057" v:isBullet="true">·</tspan><tspan class="st5" v:langID="2057"> </tspan><tspan
+							class="st6" v:langID="2057">Custom type adapter support</tspan></text>			</g>
+		</g>
+		<g id="group11-54" transform="translate(423.213,-644.315)" v:mID="11" v:groupContext="group">
+			<title>Foglio.11</title>
+			<g id="shape2-55" v:mID="2" v:groupContext="shape" transform="translate(0,-325.984)">
+				<title>Casella.2</title>
+				<desc>Persistence on SQLite database</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="162.992" cy="1123.37" width="325.99" height="62.3622"/>
+				<rect x="0" y="1092.19" width="325.984" height="62.3622" class="st7"/>
+				<text x="39.18" y="1128.77" class="st2" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Persistence on SQLite database</text>			</g>
+			<g id="shape7-58" v:mID="7" v:groupContext="shape" transform="translate(0,-62.3622)">
+				<title>Casella.7</title>
+				<desc>Based on DAO pattern No reflection is used, code is generated...</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="162.992" cy="1022.74" width="325.99" height="263.622"/>
+				<rect x="0" y="890.929" width="325.984" height="263.622" class="st3"/>
+				<text x="4" y="904.05" class="st4" v:langID="2057"><v:paragraph v:indentFirst="-18" v:indentLeft="18" v:bullet="1"/><v:tabList/><tspan
+							class="st5" v:isBullet="true">·</tspan> <tspan class="st6">B</tspan><tspan class="st6" v:langID="1033">ased on DAO pattern<v:newlineChar/></tspan><tspan
+							x="4" dy="1.216em" class="st5" v:isBullet="true">·</tspan> <tspan class="st6">N</tspan><tspan
+							class="st6" v:langID="1033">o reflection is used</tspan><tspan class="st6" v:langID="1033">, </tspan><tspan
+							class="st6" v:langID="1033">code is generated at compile time<v:newlineChar/></tspan><tspan x="4"
+							dy="1.216em" class="st5" v:langID="1033" v:isBullet="true">·</tspan><tspan class="st5" v:langID="1033"> </tspan><tspan
+							class="st6" v:langID="1033">DAO and SQL operations </tspan><tspan class="st6">Is defined with</tspan><tspan
+							class="st6" v:langID="1033"> </tspan><tspan class="st6" v:langID="1033">Java interfaces</tspan><tspan
+							class="st6"> </tspan><tspan class="st6">and </tspan><tspan x="22" dy="1.204em" class="st6">methods<v:newlineChar/></tspan><tspan
+							x="4" dy="1.212em" class="st5" v:langID="1033" v:isBullet="true">·</tspan><tspan class="st5"
+							v:langID="1033"> </tspan><tspan class="st6" v:langID="1033">SQL check at compile time<v:newlineChar/></tspan><tspan
+							x="4" dy="1.216em" class="st5" v:isBullet="true">·</tspan> <tspan class="st6">SQL can be add at runtime<v:newlineChar/></tspan><tspan
+							x="4" dy="1.216em" class="st5" v:isBullet="true">·</tspan> <tspan class="st6">T</tspan><tspan
+							class="st6" v:langID="1033">hread safe operations<v:newlineChar/></tspan><tspan x="4" dy="1.216em"
+							class="st5" v:isBullet="true">·</tspan> <tspan class="st6">Q</tspan><tspan class="st6" v:langID="1033">uery results</tspan><tspan
+							class="st6"> </tspan><tspan class="st6">can be</tspan><tspan class="st6" v:langID="1033"> </tspan><tspan
+							class="st6" v:langID="1033">list</tspan><tspan class="st6" v:langID="1033">, </tspan><tspan class="st6"
+							v:langID="1033">paginated results</tspan><tspan class="st6" v:langID="1033">, </tspan><tspan
+							class="st6" v:langID="1033">array</tspan><tspan class="st6" v:langID="1033">, </tspan><tspan
+							class="st6" v:langID="1033">set</tspan><tspan class="st6" v:langID="1033">, </tspan><tspan class="st6"
+							v:langID="1033">cursor </tspan><tspan class="st6" v:langID="1033">(</tspan><tspan class="st6"
+							v:langID="1033">with </tspan><tspan x="22" dy="1.204em" class="st6" v:langID="1033">helper class</tspan><tspan
+							class="st6" v:langID="1033">) </tspan><tspan class="st6" v:langID="1033">and listener<v:newlineChar/></tspan><tspan
+							x="4" dy="1.212em" class="st5" v:isBullet="true">·</tspan> <tspan class="st6">G</tspan><tspan
+							class="st6" v:langID="1033">enerate log to monitor </tspan><tspan class="st6">SQL </tspan><tspan
+							class="st6" v:langID="1033">operation<v:newlineChar/></tspan><tspan x="4" dy="1.216em" class="st5"
+							v:isBullet="true">·</tspan> <tspan class="st6">RX</tspan><tspan class="st6" v:langID="1033"> </tspan><tspan
+							class="st6" v:langID="1033">support<v:newlineChar/></tspan><tspan x="4" dy="1.216em" class="st5"
+							v:isBullet="true">·</tspan> <tspan class="st6">Live data support<v:newlineChar/></tspan><tspan x="4"
+							dy="1.216em" class="st5" v:isBullet="true">·</tspan> <tspan class="st6">G</tspan><tspan class="st6"
+							v:langID="1033">enerate</tspan><tspan class="st6">s</tspan><tspan class="st6" v:langID="1033"> </tspan><tspan
+							class="st6" v:langID="1033">content provider<v:newlineChar/></tspan><tspan x="4" dy="1.216em"
+							class="st5" v:isBullet="true">·</tspan> <tspan class="st6">G</tspan><tspan class="st6" v:langID="1033">enerate</tspan><tspan
+							class="st6">s</tspan><tspan class="st6" v:langID="1033"> </tspan><tspan class="st6">A</tspan><tspan
+							class="st6" v:langID="1033">sync </tspan><tspan class="st6">T</tspan><tspan class="st6" v:langID="1033">ask<v:newlineChar/></tspan><tspan
+							x="4" dy="1.216em" class="st5" v:isBullet="true">·</tspan> <tspan class="st6">G</tspan><tspan
+							class="st6" v:langID="1033">enerate </tspan><tspan class="st6">J</tspan><tspan class="st6"
+							v:langID="1033">avadoc to document operations<v:newlineChar/></tspan><tspan x="4" dy="1.216em"
+							class="st5" v:isBullet="true">·</tspan> <tspan class="st6">S</tspan><tspan class="st6" v:langID="1033">upports many type</tspan><tspan
+							class="st6" v:langID="1033">: </tspan><tspan class="st6" v:langID="1033">String</tspan><tspan
+							class="st6" v:langID="1033">, </tspan><tspan class="st6" v:langID="1033">all primitive</tspan><tspan
+							class="st6" v:langID="1033">, </tspan><tspan class="st6" v:langID="1033">arrays of bytes</tspan><tspan
+							class="st6" v:langID="1033">, </tspan><tspan x="22" dy="1.204em" class="st6">Collections</tspan><tspan
+							class="st6" v:langID="1033">t</tspan><tspan class="st6" v:langID="1033">, </tspan><tspan class="st6"
+							v:langID="1033">Map</tspan><tspan class="st6" v:langID="1033">, </tspan><tspan class="st6"
+							v:langID="1033">Date</tspan><tspan class="st6" v:langID="1033">, </tspan><tspan class="st6"
+							v:langID="1033">Calendar</tspan><tspan class="st6" v:langID="1033">, </tspan><tspan class="st6"
+							v:langID="1033">Locale</tspan><tspan class="st6" v:langID="1033">, </tspan><tspan class="st6"
+							v:langID="1033">Time</tspan><tspan class="st6" v:langID="1033">, </tspan><tspan class="st6"
+							v:langID="1033">TimeZone and URL<v:newlineChar/></tspan><tspan x="4" dy="1.212em" class="st5"
+							v:isBullet="true">·</tspan> <tspan class="st6">G</tspan><tspan class="st6" v:langID="1033">enerate</tspan><tspan
+							class="st6">s</tspan><tspan class="st6" v:langID="1033"> </tspan><tspan class="st6" v:langID="1033">DDL schema<v:newlineChar/></tspan><tspan
+							x="4" dy="1.216em" class="st5" v:isBullet="true">·</tspan> <tspan class="st6">S</tspan><tspan
+							class="st6" v:langID="1033">upport</tspan><tspan class="st6">s</tspan><tspan class="st6"
+							v:langID="1033"> </tspan><tspan class="st6" v:langID="1033">schema upgrade<v:newlineChar/></tspan><tspan
+							x="4" dy="1.216em" class="st5" v:isBullet="true">·</tspan> <tspan class="st6">S</tspan><tspan
+							class="st6" v:langID="1033">upport</tspan><tspan class="st6">s</tspan><tspan class="st6"
+							v:langID="1033"> </tspan><tspan class="st6" v:langID="1033">schema update test</tspan></text>			</g>
+		</g>
+		<g id="group12-179" transform="translate(68.8819,-488.409)" v:mID="12" v:groupContext="group">
+			<title>Foglio.12</title>
+			<g id="shape3-180" v:mID="3" v:groupContext="shape" transform="translate(0,-249.449)">
+				<title>Casella.3</title>
+				<desc>Persistence by SharedPreference</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="173.622" cy="1123.37" width="347.25" height="62.3622"/>
+				<rect x="0" y="1092.19" width="347.244" height="62.3622" class="st8"/>
+				<text x="44.86" y="1128.77" class="st2" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Persistence by SharedPreference</text>			</g>
+			<g id="shape8-183" v:mID="8" v:groupContext="shape" transform="translate(0,-106.299)">
+				<title>Casella.8</title>
+				<desc>No reflection is used, code is generated at compile time Supp...</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="173.622" cy="1082.98" width="347.25" height="143.15"/>
+				<rect x="0" y="1011.4" width="347.244" height="143.15" class="st3"/>
+				<text x="4" y="1024.52" class="st4" v:langID="2057"><v:paragraph v:indentFirst="-18" v:indentLeft="18" v:bullet="1"/><v:tabList/><tspan
+							class="st5" v:isBullet="true">·</tspan> <tspan class="st6">N</tspan><tspan class="st6" v:langID="1033">o reflection is used</tspan><tspan
+							class="st6" v:langID="1033">, </tspan><tspan class="st6" v:langID="1033">code is generated at compile time<v:newlineChar/></tspan><tspan
+							x="4" dy="1.216em" class="st5" v:isBullet="true">·</tspan> <tspan class="st6">S</tspan><tspan
+							class="st6" v:langID="1033">upports basic java type</tspan><tspan class="st6" v:langID="1033">: </tspan><tspan
+							class="st6" v:langID="1033">String</tspan><tspan class="st6" v:langID="1033">, </tspan><tspan
+							class="st6" v:langID="1033">all primitive and wrapped types<v:newlineChar/></tspan><tspan x="4"
+							dy="1.216em" class="st5" v:isBullet="true">·</tspan> <tspan class="st6">S</tspan><tspan class="st6"
+							v:langID="1033">upports arrays of bytes and all supported types </tspan><tspan class="st6"
+							v:langID="1033">(</tspan><tspan class="st6" v:langID="1033">they are converted as </tspan><tspan x="22"
+							dy="1.204em" class="st6" v:langID="1033">JSON string</tspan><tspan class="st6" v:langID="1033">)<v:newlineChar/></tspan><tspan
+							x="4" dy="1.212em" class="st5" v:isBullet="true">·</tspan> <tspan class="st6">S</tspan><tspan
+							class="st6" v:langID="1033">upports for List</tspan><tspan class="st6" v:langID="1033">, </tspan><tspan
+							class="st6" v:langID="1033">Set and Map collections </tspan><tspan class="st6" v:langID="1033">(</tspan><tspan
+							class="st6" v:langID="1033">they are converted as JSON </tspan><tspan x="22" dy="1.204em" class="st6"
+							v:langID="1033">string</tspan><tspan class="st6" v:langID="1033">)<v:newlineChar/></tspan><tspan x="4"
+							dy="1.212em" class="st5" v:isBullet="true">·</tspan> <tspan class="st6">S</tspan><tspan class="st6"
+							v:langID="1033">upports for common types like Date</tspan><tspan class="st6" v:langID="1033">, </tspan><tspan
+							class="st6" v:langID="1033">Calendar</tspan><tspan class="st6" v:langID="1033">, </tspan><tspan
+							class="st6" v:langID="1033">Locale</tspan><tspan class="st6" v:langID="1033">, </tspan><tspan
+							class="st6" v:langID="1033">Time</tspan><tspan class="st6" v:langID="1033">, </tspan><tspan class="st6"
+							v:langID="1033">TimeZone </tspan><tspan x="22" dy="1.204em" class="st6" v:langID="1033">and URL </tspan><tspan
+							class="st6" v:langID="1033">(</tspan><tspan class="st6" v:langID="1033">they are converted as JSON string</tspan><tspan
+							class="st6" v:langID="1033">)<v:newlineChar/></tspan><tspan x="4" dy="1.212em" class="st5"
+							v:isBullet="true">·</tspan> <tspan class="st6">R</tspan><tspan class="st6" v:langID="1033">ead</tspan><tspan
+							class="st6" v:langID="1033">/</tspan><tspan class="st6" v:langID="1033">write operation can be done in type safe way<v:newlineChar/></tspan><tspan
+							x="4" dy="1.216em" class="st5" v:isBullet="true">·</tspan> <tspan class="st6">Custom type adapter support</tspan></text>			</g>
+		</g>
+		<g id="group13-236" transform="translate(423.213,-389.197)" v:mID="13" v:groupContext="group">
+			<title>Foglio.13</title>
+			<g id="shape4-237" v:mID="4" v:groupContext="shape" transform="translate(0,-249.449)">
+				<title>Casella.4</title>
+				<desc>Persistence by REST service</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="162.992" cy="1123.37" width="325.99" height="62.3622"/>
+				<rect x="0" y="1092.19" width="325.984" height="62.3622" class="st9"/>
+				<text x="55.1" y="1128.77" class="st2" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Persistence by REST service</text>			</g>
+			<g id="shape9-240" v:mID="9" v:groupContext="shape" transform="translate(0,-206.929)">
+				<title>Casella.9</title>
+				<desc>Uses RETROFIT to generate web service client Supports for JSO...</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="162.992" cy="1133.29" width="325.99" height="42.5197"/>
+				<rect x="0" y="1112.03" width="325.984" height="42.5197" class="st3"/>
+				<text x="4" y="1125.15" class="st4" v:langID="2057"><v:paragraph v:indentFirst="-18" v:indentLeft="18" v:bullet="1"/><v:tabList/><tspan
+							class="st5" v:isBullet="true">·</tspan> <tspan class="st6">U</tspan><tspan class="st6" v:langID="1033">se</tspan><tspan
+							class="st6">s</tspan><tspan class="st6" v:langID="1033"> </tspan><tspan class="st6" v:langID="1033">RETROFIT to generate web service client<v:newlineChar/></tspan><tspan
+							x="4" dy="1.216em" class="st5" v:langID="1033" v:isBullet="true">·</tspan><tspan class="st5"
+							v:langID="1033"> </tspan><tspan class="st6" v:langID="1033">Support</tspan><tspan class="st6">s</tspan><tspan
+							class="st6" v:langID="1033"> </tspan><tspan class="st6" v:langID="1033">for JSON</tspan><tspan
+							class="st6"> </tspan><tspan class="st6">and XML </tspan><tspan class="st6">(</tspan><tspan class="st6">no namespace</tspan><tspan
+							class="st6">)</tspan><tspan class="st6" v:langID="1033"> </tspan><tspan class="st6" v:langID="1033">format</tspan></text>			</g>
+		</g>
+		<g id="shape14-262" v:mID="14" v:groupContext="shape" transform="translate(68.8819,-1041.17)">
+			<title>Casella</title>
+			<desc>KRIPTON PERSISTENCE LIBRARY version 4.0</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="340.157" cy="1112.03" width="680.32" height="85.0394"/>
+			<rect x="0" y="1069.51" width="680.315" height="85.0394" class="st10"/>
+			<text x="127.49" y="1103.03" class="st11" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>KRIPTON PERSISTENCE LIBRARY<v:newlineChar/><tspan
+						x="269.11" dy="1.2em" class="st5">version </tspan><tspan class="st5" v:langID="2057">4</tspan>.0</text>		</g>
+	</g>
+</svg>
